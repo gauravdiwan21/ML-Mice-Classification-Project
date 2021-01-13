@@ -1,3 +1,2 @@
-Gaurav Diwan
-s3799691
-Python version : Python 3.6
+
+The aim of this report is to identify subsets of proteins that are discriminant between the classes leading to the success and failure of mice learning (8 classes based on genotype (control, c, and trisomy, t), stimulation to learn (Context-Shock, CS, and Shock-Context, SC) and treatment (saline, s, and memantine, m)). Expression levels of 77 proteins were analysed on the mice’s having different characteristics to study genetic Down Syndrome which causes mental disability. Overall, the results indicate that the proteins profile of SOD1_N, pPKCG_N, pERK_N are most affected with the change in the behavior (CS or SC) and protein levels of Tau_N and H3AcK18_N changes drastically when exposed to the mice with different Genotype (Control and Trisomy). Also Control mice learn successfully while the trisomic mice fail, unless they are first treated with the drug, which rescues their learning ability. Furthermore, for our study we have built 2 supervised machine learning classification model – KNN and DT to predict different classes of mice based on the values of proteins that lead to associative learnings in mice.
